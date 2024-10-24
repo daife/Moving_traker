@@ -1,0 +1,11 @@
+master2\start_manager.o: ..\Drivers\mpu6050\start_manager.c
+master2\start_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+master2\start_manager.o: ..\Drivers\mpu6050\log.h
+master2\start_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+master2\start_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+master2\start_manager.o: ..\Drivers\mpu6050\start_manager.h
+master2\start_manager.o: ..\Drivers\mpu6050\mltypes.h
+master2\start_manager.o: ..\Drivers\mpu6050\stdint_invensense.h
+master2\start_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+master2\start_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+master2\start_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
